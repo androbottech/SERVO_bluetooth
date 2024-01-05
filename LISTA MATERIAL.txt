@@ -1,0 +1,6 @@
+1 arduino nano
+1 servo motor FUTABA S3003
+1 bluetooth HC05
+1 PROTOBOARD 830p
+1 cables UTP (para conectar en protoboard)
+2 baterias de 6 volios(4 pares de pilas AA)
